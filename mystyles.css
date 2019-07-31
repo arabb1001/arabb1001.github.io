@@ -1,0 +1,102 @@
+p {
+  color:White;
+
+}
+#aboutme {
+font-size:64;
+font-family:ariel;
+}
+.myfirstclass {
+  color:white;
+  font family:ariel;
+}
+
+
+  #mainpagebody {
+    background-color:grey;
+  }
+  #mainpagebody2 {
+    background-color: pink;
+  }
+  #zebra {
+    color:red;
+    font-family;ariel;
+  }
+
+  #sarah {
+    color:purple;
+  }
+
+  #kayla {
+    color:darkblue;
+  }
+  #abby {
+    color:green;
+  }
+
+  #classAW {
+    text-align: center;
+    color:white;
+    background-color: red;
+  }
+
+  #shivani {
+
+
+  }
+
+#emma {
+  float:right;
+}
+
+#break {
+    text-align: center;
+}
+
+#jen {
+  height:100px;
+}
+
+#abs {
+  height:150px;
+}
+
+#ss {
+    height:100px;
+}
+
+#rr {
+  height:100px;
+}
+
+#sw {
+  height:100px;
+}
+
+#sb {
+  height:150px;
+}
+
+#chocolate {
+    height:100px;
+}
+
+#MPV {
+  float:right;
+}
+#pics {
+  position:50px;
+  height:100px;
+  float: right;
+}
+#picss {
+  position:50px;
+  height: 100px;
+  float: right;
+}
+
+#vid {
+  position:50px;
+  height: 100px;
+  float: right;
+}
