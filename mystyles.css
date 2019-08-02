@@ -7,7 +7,7 @@ li {
   font-family:ariel;
 }
 #aboutme {
-font-size:64;
+font-size: 70;
 font-family:ariel;
 }
 .myfirstclass {
@@ -98,11 +98,30 @@ font-family:ariel;
   float: right;
 }
 #picss {
-  position:5px;
+  position:50px;
   height: 200px;
   float: right;
 }
-#picss
+#picsss {
+  position:50px;
+  height: 200px;
+}
+
+#picssss {
+  position:50px;
+  height: 200px;
+}
+
+#picsssss {
+  position:50px;
+  height: 200px;
+}
+
+picssssss {
+  position:50px;
+  height: 200px;
+}
+
 #vid {
   position:50px;
   height: 100px;
@@ -110,19 +129,19 @@ font-family:ariel;
 }
 
 .x {
-  font-size: 40px;
+  font-size: 30px;
   font-family: ariel;
   background-color: purple
 }
 
 .y {
-  font-size: 40px;
+  font-size: 30px;
   font-family: ariel;
   background-color: red
 }
 
 .sports {
-  font-size: 40px;
+  font-size: 30px;
   font-family: ariel;
     background-color: yellow
 }
