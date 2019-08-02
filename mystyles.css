@@ -2,6 +2,10 @@ p {
   color:White;
 
 }
+li {
+  font-size: 30;
+  font-family:ariel;
+}
 #aboutme {
 font-size:64;
 font-family:ariel;
@@ -19,18 +23,22 @@ font-family:ariel;
     background-color: pink;
   }
   #zebra {
+    font-size: 30;
     color:red;
     font-family;ariel;
   }
 
   #sarah {
+    font-size: 30;
     color:purple;
   }
 
   #kayla {
+    font-size: 30;
     color:darkblue;
   }
   #abby {
+    font-size: 30;
     color:green;
   }
 
@@ -86,17 +94,35 @@ font-family:ariel;
 }
 #pics {
   position:50px;
-  height:100px;
+  height:200px;
   float: right;
 }
 #picss {
+  position:5px;
+  height: 200px;
+  float: right;
+}
+#picss
+#vid {
   position:50px;
   height: 100px;
   float: right;
 }
 
-#vid {
-  position:50px;
-  height: 100px;
-  float: right;
+.x {
+  font-size: 40px;
+  font-family: ariel;
+  background-color: purple
+}
+
+.y {
+  font-size: 40px;
+  font-family: ariel;
+  background-color: red
+}
+
+.sports {
+  font-size: 40px;
+  font-family: ariel;
+    background-color: yellow
 }
