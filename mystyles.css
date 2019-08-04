@@ -94,33 +94,42 @@ font-family:ariel;
 }
 #pics {
   position:50px;
-  height:200px;
+  height:100px;
+  float: right;
+}
+
+#ics {
+  position:50px;
+  height:100px;
+  float: right;
+}
+
+#icss {
+  position:50px;
+  height:100px;
   float: right;
 }
 #picss {
   position:50px;
-  height: 200px;
+  height: 100px;
   float: right;
 }
 #picsss {
   position:50px;
-  height: 200px;
+  height: 100px;
 }
 
 #picssss {
   position:50px;
-  height: 200px;
+  height: 100px;
 }
 
 #picsssss {
   position:50px;
-  height: 200px;
+  height: 100px;
 }
 
-picssssss {
-  position:50px;
-  height: 200px;
-}
+
 
 #vid {
   position:50px;
